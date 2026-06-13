@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+database.db
+query_result.xlsx
+analysis_report.pdf
+.env
